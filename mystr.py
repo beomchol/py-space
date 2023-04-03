@@ -1,3 +1,3 @@
 s = 'python'
-print9(s[:])
+print(s[:])
 
